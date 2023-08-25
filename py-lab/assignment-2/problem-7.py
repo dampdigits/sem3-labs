@@ -5,7 +5,7 @@
 # marks > 70 -> A
 # marks > 60 -> B
 # marks > 50 -> C
-# marks > 40 -> D
+# marks >= 40 -> D
 # marks < 40 -> F
 
 print("Enter the marks in the following subjects:\n")
