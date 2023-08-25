@@ -1,3 +1,5 @@
+# Write a program to calculate the bill amount for an item given it's quantity, cost price, discount and tax.
+
 item =input("Item: ")
 quantity = int(input("Quantity: "))
 costPrice = int(input("Cost price: "))
