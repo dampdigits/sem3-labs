@@ -1,3 +1,5 @@
+# Write a program to calculate the total amount of money in a piggybank. Coins: ₹1, ₹2, ₹5, ₹10
+
 print("Enter the number coins of:")
 
 coins10 = int(input("₹ 10: "))
