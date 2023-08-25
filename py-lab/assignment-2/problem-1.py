@@ -1,3 +1,5 @@
+# Write a program to swap two numbers using a third variable and without using a third variable
+
 # Using 3rd variable
 a = 10
 b = 20
