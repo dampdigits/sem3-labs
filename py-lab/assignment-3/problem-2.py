@@ -1,4 +1,4 @@
-# Write a Python Program to print the sum of the series :  1/(2*2) + 1/(3*3) + ... + 1/(n*n)
+# Write a program to print the sum of the series :  1/(2*2) + 1/(3*3) + ... + 1/(n*n)
 
 sum = 0
 n = int(input("Limit: "))
