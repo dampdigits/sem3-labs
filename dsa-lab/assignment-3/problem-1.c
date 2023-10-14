@@ -19,7 +19,7 @@ void main ()
 	int choice = 0;
     while(choice != 4)
     {
-        printf("Chose one from the below options...\n");  
+        printf("Choose one from the below options...\n");  
         printf("\n1.Push\t2.Pop\t3.Show\t4.Exit");  
         printf("\nEnter your choice: ");        
         scanf("%d",&choice);  
