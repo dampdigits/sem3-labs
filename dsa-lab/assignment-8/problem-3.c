@@ -1,3 +1,5 @@
+// Inorder tree traversal
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node // node defining for tree
