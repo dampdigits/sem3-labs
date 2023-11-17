@@ -1,4 +1,5 @@
 // Selection sort in C
+
 #include <stdio.h>
 // function to swap the the position of two elements
 void swap(int *a, int *b) {
