@@ -38,3 +38,8 @@ int main() {
   printf("Sorted array in Acsending Order:\n");
   printArray(data, size);
 }
+
+// Output:
+
+// Sorted array in Acsending Order:
+// 2  10  12  15  20  

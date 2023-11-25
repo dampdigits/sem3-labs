@@ -79,6 +79,8 @@ int main() {
   printArray(data, n);
 }
 
+// Output:
+
 // Unsorted Array
 // 8 7 2 1 0 9 6
 // Sorted array in ascending order:
