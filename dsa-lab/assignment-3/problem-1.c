@@ -85,3 +85,44 @@ void show()
         printf("Stack is empty\n");  
     }  
 }
+
+// Output:
+
+// Enter the number of elements in the stack: 5
+// *********Stack operations using array*********
+// ----------------------------------------------
+// Choose one from the below options...
+
+// 1.Push  2.Pop   3.Show  4.Exit
+// Enter your choice: 1
+// Enter the value: 5
+// Choose one from the below options...
+
+// 1.Push  2.Pop   3.Show  4.Exit
+// Enter your choice: 1
+// Enter the value: 6
+// Choose one from the below options...
+
+// 1.Push  2.Pop   3.Show  4.Exit
+// Enter your choice: 3
+// 6
+// 5
+// Choose one from the below options...
+
+// 1.Push  2.Pop   3.Show  4.Exit
+// Enter your choice: 2
+// Choose one from the below options...
+
+// 1.Push  2.Pop   3.Show  4.Exit
+// Enter your choice: 2
+// Choose one from the below options...
+
+// 1.Push  2.Pop   3.Show  4.Exit
+// Enter your choice: 2
+
+// Underflow
+// Choose one from the below options...
+
+// 1.Push  2.Pop   3.Show  4.Exit
+// Enter your choice: 4
+// Exiting....
