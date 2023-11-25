@@ -174,3 +174,12 @@ int main()
     printf(" Result\n");
     display(result);
 }
+
+// Output:
+
+//  Polynomial A
+//  3x^4 + 9x^3 + 4x^2 + 7x^1 + 3
+//  Polynomial B
+//  7x^3 + 1x^2 + 6x^1 + 4
+//  Result
+//  21x^7 + 66x^6 + 55x^5 + 119x^4 + 88x^3 + 61x^2 + 46x^1 + 12
