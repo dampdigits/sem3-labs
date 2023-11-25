@@ -114,7 +114,12 @@ int main ()
   printf ("Post order traversal of binary tree is :\n");
   printf ("[");
   postorder(root);
-  printf ("]");
+  printf ("]\n");
 
   return 0;
 }
+
+// Output:
+
+// Post order traversal of binary tree is :
+// [40 50 20 60 70 30 10 ]
