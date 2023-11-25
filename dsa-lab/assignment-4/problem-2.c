@@ -100,3 +100,8 @@ int main() {
     infixToPostfix(infix);
     return 0;
 }
+
+// Output:
+
+// Enter an infix expression: A+B-C
+// Postfix expression: +A-BC
