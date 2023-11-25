@@ -82,3 +82,6 @@ int main() {
   printf("Sorted array: \n");
   printArray(arr, size);
 }
+
+// Sorted array is 
+// 1 5 6 9 10 12 
