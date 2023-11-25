@@ -67,3 +67,15 @@ int main(){
    printf("Stack empty: %s\n" , isempty()?"true":"false");
    return 0;
 }
+
+// Output:
+
+// Element at top of the stack: 15
+// Elements: 
+// POPPED 15
+// POPPED 123
+// POPPED 62
+// POPPED 10
+// POPPED 44
+// Stack full: false
+// Stack empty: true
