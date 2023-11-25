@@ -35,7 +35,12 @@ int main() {
   if (res == -1)  
   printf("\nElement is not present in the array");  
   else  
-  printf("\nElement is present at %d position of array", res);  
+  printf("\nElement is present at %d position of array\n", res);  
   return 0;  
 }  
 
+// Output:
+
+// The elements of the array are - 11 14 25 30 40 41 52 57 70 
+// Element to be searched is - 52
+// Element is present at 6 position of array
