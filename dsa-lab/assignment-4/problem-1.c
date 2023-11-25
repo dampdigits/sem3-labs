@@ -97,3 +97,16 @@ int main(void) {
     display();
     return 0;
 }
+
+// Output:
+
+// Enqueued: 1
+// Enqueued: 2
+// Enqueued: 3
+// Enqueued: 4
+// Queue elements: 1234
+// Dequeued: 1
+// Queue elements: 234
+// Enqueued: 5
+// Enqueued: 6
+// Queue elements: 23456
