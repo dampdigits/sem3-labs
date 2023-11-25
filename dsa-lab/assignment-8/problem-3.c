@@ -86,3 +86,7 @@ int main()
 	Inorder(root); 
 	return 0;
 }
+
+// Output:
+
+// 8 5 7 6 4
