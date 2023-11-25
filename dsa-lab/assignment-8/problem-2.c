@@ -43,6 +43,7 @@ int tree_traversal (struct node *root)	//Inorder Traversing function
 	    flag = 0;
 	}
     }
+  printf("\n")
 }
 
 void push (struct stack **top, struct node *n)	//push node in stack
@@ -92,3 +93,7 @@ int main ()
   tree_traversal (root);
   return 0;
 }
+
+// Output:
+
+// 8 5 7 6 4
