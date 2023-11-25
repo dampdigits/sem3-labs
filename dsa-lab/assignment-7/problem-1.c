@@ -92,3 +92,9 @@ int main() {
     print(result);
     return 0;
 }
+
+// Output:
+
+// First polynomial: 5x^4 + 3x^2 + 1x^0
+// Second polynomial: 4x^4 + 2x^2 + 1x^1
+// Result: 9x^4 + 5x^2 + 1x^1 + 1x^0
