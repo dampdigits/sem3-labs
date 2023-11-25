@@ -32,13 +32,13 @@ int main(void)
         }
         else if (num < arr[mid])
         {
-            end = mid;
+            end = mid - 1;
         }
         else
         {
-            beg = mid;
+            beg = mid + 1;
         }
-    } while (beg != end);
+    } while (beg <= end);
 
     if (found)
     {
@@ -52,3 +52,14 @@ int main(void)
 
     return 0;
 }
+
+// Output:
+
+// Enter the array size: 3
+// Enter element:1
+// Enter element:2
+// Enter element:3
+
+// Enter the number to be searched: 1
+
+// Found searched number at position - 1
