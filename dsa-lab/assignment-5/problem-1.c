@@ -87,3 +87,8 @@ int main() {
     }
     return 0;
 }
+
+// Output:
+
+// Enter a postfix expression: 589+-
+// Result of the postfix expression: -12
