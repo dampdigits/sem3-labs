@@ -1,5 +1,6 @@
+// Linear Search
+
 #include<stdio.h>
-#include<conio.h>
   
 void main()
 {
@@ -20,9 +21,22 @@ void main()
             break;
      
     if(i<n)
-        printf("Element found at index=%d",i);
+        printf("Element found at index=%d\n",i);
     else
-        printf("Element not found");
-  
-    getch();
+        printf("Element not found\n");
 }
+
+// Output:
+
+// How many array elements?
+// 6
+// Enter array elements
+// 2
+// 3
+// 4
+// 5
+// 9
+// 6
+// Enter element to search:
+// 2
+// Element found at index=0
