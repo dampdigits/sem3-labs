@@ -45,3 +45,17 @@ int main(void)
         printf("\nSearched number not found.\n");
     }
 }
+
+// Output:
+
+// Enter the size of the array: 6
+// Enter element: 1
+// Enter element: 2
+// Enter element: 3
+// Enter element: 4
+// Enter element: 5
+// Enter element: 6
+
+// Enter the number to be searched: 5
+
+// Found searched number at position - 4
