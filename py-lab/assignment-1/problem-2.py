@@ -7,3 +7,7 @@ ma = 0.01
 pf = 0.02
 ts = bs + (bs * (hra + da + ma + pf))
 print(f"Total salary: ₹{ts}")
+
+# Output:
+# Base salary: ₹50000
+# Total salary: ₹64000.0
