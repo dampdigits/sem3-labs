@@ -12,3 +12,12 @@ tax = discountedPrice * taxPercent / 100
 billAmount = round(discountedPrice + tax)
 
 print(f"\nBill amount of {quantity} {item} ₹{billAmount}")
+
+# Output:
+# Item: pizza
+# Quantity: 2
+# Cost price: 99
+# Discount %: 2
+# Tax %: 1
+
+# Bill amount of 2 pizza ₹196
