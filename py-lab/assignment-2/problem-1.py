@@ -19,3 +19,16 @@ print(f"\nBefore swap\nd: {d}, e: {e}")
 d, e = e, d
 
 print(f"\nAfter swap\d: {d}, e: {e}")
+
+# Output:
+# 1.py
+
+# Before swap
+# a: 10, b: 20
+
+# After swap: 20, b: 10
+
+# Before swap
+# d: 52, e: 36
+
+# After swap\d: 36, e: 52
