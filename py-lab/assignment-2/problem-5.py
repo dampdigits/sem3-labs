@@ -15,3 +15,8 @@ if salary < 10000:
 salary = round(salary + (salary * bonusPercent / 100))
 
 print(f"Final salary: ₹{salary}")
+
+# Output:
+# Salary: 80000
+# Sex: male
+# Final salary: ₹84000
