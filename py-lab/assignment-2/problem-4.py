@@ -8,4 +8,7 @@ elif number > 0:
     print("Number is positive.")
 else:
     print("Number is equal to zero.")
-    
+
+# Output: 
+# Number: 85
+# Number is positive.
