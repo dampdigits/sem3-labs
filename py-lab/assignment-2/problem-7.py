@@ -33,3 +33,13 @@ else:
     grade = 'F'
 
 print(f"Grade: {grade}")
+
+# Output:
+
+# Enter the marks in the following subjects:
+
+# Maths: 93
+# Computer: 100
+# Science: 95
+# English: 96
+# Grade: O
