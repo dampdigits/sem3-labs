@@ -7,3 +7,7 @@ for index in range(1 , number + 1):
     factorial *= index
 
 print(f"Factorial: {factorial}")
+
+# Output:
+# Number: 8
+# Factorial: 40320
